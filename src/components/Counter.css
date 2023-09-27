@@ -1,0 +1,11 @@
+button {
+    font-weight: bolder;
+    height: 40px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+span {
+    color: #ea0452;
+}
